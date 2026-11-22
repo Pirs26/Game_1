@@ -1,0 +1,8 @@
+- you work behind the counter in a shop like in papers please
+- People want to exchange currencies
+- People want to sell items to you
+- People want to buy some items from you
+- The items can be faked
+- The money can be faked
+- Victorian times / steampunk
+- Buying better equipment for recognizing fakes
